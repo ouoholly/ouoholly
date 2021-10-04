@@ -21,11 +21,11 @@
 
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hexo Butterfly 主題：添加天氣時鐘 (butterfly-clock / hexo-electric-clock)](https://ouoholly.github.io/post/butterfly-add-hexo-electric-clock/)
 - [Hexo Butterfly 主題：添加統計圖表 (hexo-butterfly-charts)](https://ouoholly.github.io/post/butterfly-add-hexo-butterfly-charts/)
 - [Github profile README.md](https://ouoholly.github.io/post/github-profile-readme/)
 - [把Excel資料批量填入Photoshop模板 (Image - Variables - Define - Data Sets)](https://ouoholly.github.io/post/Excel-data-to-Photoshop/)
 - [把Excel資料批量填入Word檔模板 (Mailings Merge function)](https://ouoholly.github.io/post/Excel-data-to-Word/)
-- [【紀錄】Github Hexo 個人博客，由 Windows 轉到 Mac 新電腦](https://ouoholly.github.io/post/hexo-in-new-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [https://ouoholly.github.io/](https://ouoholly.github.io/)
