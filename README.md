@@ -21,11 +21,11 @@
 
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [【筆記】Excel formula notes](https://ouoholly.github.io/post/Excel-notes/)
 - [【Python】Differences between return and print (why use print in function will output None?)](https://ouoholly.github.io/post/python-diff-print-return/)
 - [Hexo Butterfly 主題：添加天氣時鐘 (butterfly-clock / hexo-electric-clock)](https://ouoholly.github.io/post/butterfly-add-hexo-electric-clock/)
 - [Hexo Butterfly 主題：添加統計圖表 (hexo-butterfly-charts)](https://ouoholly.github.io/post/butterfly-add-hexo-butterfly-charts/)
 - [Github profile README.md](https://ouoholly.github.io/post/github-profile-readme/)
-- [把Excel資料批量填入Photoshop模板 (Image - Variables - Define - Data Sets)](https://ouoholly.github.io/post/Excel-data-to-Photoshop/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [https://ouoholly.github.io/](https://ouoholly.github.io/)
