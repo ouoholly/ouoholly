@@ -21,11 +21,11 @@
 
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [【workflow record】Display IMDb movies as self-made catalog](https://ouoholly.github.io/post/IMDb-movie-catalog-json-html/)
+- [【Python - IMDbPY】Output the cover URLs from a list of IMDb movie IDs](https://ouoholly.github.io/post/python-IMDb-cover-url/)
 - [Mac terminal 美化記錄](https://ouoholly.github.io/post/mac-terminal-custom-style/)
 - [【筆記】Excel formula notes](https://ouoholly.github.io/post/Excel-notes/)
 - [【Python】Differences between return and print (why use print in function will output None?)](https://ouoholly.github.io/post/python-diff-print-return/)
-- [Hexo Butterfly 主題：添加天氣時鐘 (butterfly-clock / hexo-electric-clock)](https://ouoholly.github.io/post/butterfly-add-hexo-electric-clock/)
-- [Hexo Butterfly 主題：添加統計圖表 (hexo-butterfly-charts)](https://ouoholly.github.io/post/butterfly-add-hexo-butterfly-charts/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [https://ouoholly.github.io/](https://ouoholly.github.io/)
