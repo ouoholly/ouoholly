@@ -21,11 +21,11 @@
 
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter shortcut](https://ouoholly.github.io/post/jupyter-shortcut/)
 - [Array 和 List 的分別](https://ouoholly.github.io/post/diff-of-array-and-list/)
 - [【workflow record】Display IMDb movies as self-made catalog](https://ouoholly.github.io/post/IMDb-movie-catalog-json-html/)
 - [【Python - IMDbPY】Output the cover URLs from a list of IMDb movie IDs](https://ouoholly.github.io/post/python-IMDb-cover-url/)
 - [Mac terminal 美化記錄](https://ouoholly.github.io/post/mac-terminal-custom-style/)
-- [【筆記】Excel formula notes](https://ouoholly.github.io/post/Excel-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [https://ouoholly.github.io/](https://ouoholly.github.io/)
