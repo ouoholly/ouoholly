@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://github.com/ouoholly/toolpara">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ouoholly&repo=toolpara" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ouoholly&repo=toolpara" /> 
 </a>
 
 <a href="https://github.com/ouoholly/bookmarklet">
