@@ -21,6 +21,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ouoholly&repo=bookmarklet" />
 </a>
 
+<a href="https://github.com/ouoholly/compare2lists">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ouoholly&repo=compare2lists" />
+</a>
+
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [RGB to CMYK in Photoshop in batch](https://ouoholly.github.io/post/rgb-to-cmyk-in-Photoshop-in-batch/)
