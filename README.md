@@ -27,11 +27,11 @@
 
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Protect file directory using .htaccess](https://ouoholly.github.io/post/protect-file-directory-using-htaccess/)
 - [Run php locally](https://ouoholly.github.io/post/Run-php-locally/)
 - [RGB to CMYK in Photoshop in batch](https://ouoholly.github.io/post/rgb-to-cmyk-in-Photoshop-in-batch/)
 - [在 Mac 運行 Windows exe 程式](https://ouoholly.github.io/post/execute-windows-exe-on-mac-using-wine/)
 - [【個人用途記錄2】Python 爬蟲 - 抓取及解析 HTML 網頁資料](https://ouoholly.github.io/post/python-web-crawl-shhh2/)
-- [利用 nvm 在 mac 快速在多個 Node 版本之間切換](https://ouoholly.github.io/post/switch-node-version-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [https://ouoholly.github.io/](https://ouoholly.github.io/)
