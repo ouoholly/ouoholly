@@ -25,6 +25,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ouoholly&repo=compare2lists" />
 </a>
 
+<a href="https://github.com/ouoholly/hoursCal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ouoholly&repo=hoursCal" />
+</a>
+
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Protect file directory using .htaccess](https://ouoholly.github.io/post/protect-file-directory-using-htaccess/)
