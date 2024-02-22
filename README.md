@@ -1,6 +1,6 @@
 <img alt="profile views" align="right" src="https://komarev.com/ghpvc/?username=ouoholly&color=yellow">
 
-**Hi there,** 👋 <br/>
+**Hi there** <img src="https://blob.cat/emoji/custom/blobcats/blobcatmeltwave.gif" width="20px" height="20px"> <br/>
 **Welcome to my page** ₍₍٩( ᐛ )۶₎₎♪
 
 
